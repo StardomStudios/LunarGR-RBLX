@@ -28,5 +28,5 @@
     "FFlagGraphicsVulkanBonusMemory": "True",
     "FFlagRenderEnableGlobalInstancingVulkan": "True",
     "FFlagDebugGraphicsPreferD3D11": "False",
-    "DFIntFriendsListCacheOptimizationRolloutPercentage":"100"
+    "DFIntFriendsListCacheOptimizationRolloutPercentage": "100"
 }
