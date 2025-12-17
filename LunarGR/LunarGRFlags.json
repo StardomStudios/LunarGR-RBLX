@@ -3,7 +3,6 @@
     "DFFlagDisableDPIScale": "True",
     "FFlagDebugForceFutureIsBrightPhase3": "True",
     "FFlagDebugGraphicsDisableDirect3D11": "True",
-    "FFlagDebugGraphicsPreferOpenGL": "True",
     "FIntTerrainArraySliceSize": "32",
     "FFlagDisablePostFx": "False",
     "DFFlagDebugPauseVoxelizer": "False",
@@ -11,7 +10,7 @@
     "DFIntTextureQualityOverride": "3",
     "FIntDebugForceMSAASamples": "4",
     "FFlagHandleAltEnterFullscreenManually": "False",
-    "FFlagShaderLightingRefactor": "True",
+    "FFlagShaderLightingRefactor": "False",
     "FFlagDebugCheckRenderThreading": "True",
     "FFlagRenderDebugCheckThreading2": "True",
     "DFFlagUseVisBugChecks": "True",
@@ -19,5 +18,15 @@
     "FFlagVisBugChecksThreadYield": "True",
     "FIntEnableVisBugChecksHundredthPercent27": "100",
     "FFlagCommitToGraphicsQualityFix": "True",
-    "FFlagFixGraphicsQuality": "True"
+    "FFlagFixGraphicsQuality": "True",
+    "FFlagClientFRMManualToAutoExperimentCheck2": "False",
+    "FIntRenderMeshOptimizeVertexBuffer": "1",
+    "FFlagDebugGraphicsDisableVulkan": "False",
+    "FFlagDebugGraphicsDisableVulkan11": "False",
+    "FFlagDebugGraphicsPreferVulkan": "True",
+    "FFlagDebugVulkanDisablePreRotate": "False",
+    "FFlagGraphicsVulkanBonusMemory": "True",
+    "FFlagRenderEnableGlobalInstancingVulkan": "True",
+    "FFlagDebugGraphicsPreferD3D11": "False",
+    "DFIntFriendsListCacheOptimizationRolloutPercentage": "100"
 }
